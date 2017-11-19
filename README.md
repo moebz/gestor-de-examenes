@@ -1,2 +1,2 @@
 # gestor-de-examenes
-API para crear, gestionar exámenes y planillas de calificaciones
+API para crear, gestionar exámenes y planillas de calificaciones.
